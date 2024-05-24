@@ -2,7 +2,7 @@
 
 **Описание проекта:** Обеспечение надежного электроснабжения потребителей при условии поставки им качественной электрической энергии является необходимым условием эффективного развития народного хозяйства. Завышенная протяжённость, совместно с износом сетей приводит к тому, что поток отказов в них доходит до 37 год-1 на 100 км, а время восстановления – до 8 ч. Ущербы от недоотпуска электроэнергии составляют от 30 до 300 руб./кВт·ч и более. Влияет протяжённость и состояние сети и на безопасность эксплуатации. С учётом указанных выше и других проблем в электроснабжении сельских потребителей актуальным является разработка способов поиска мест, наиболее подверженных к перерывам в электроснабжении.  
 
-**Данные:** В наличии имеются данные по отключениям электроэнергии в региональных электрических сетях Орловской области за 2018 по 2021 гг. Также имееются данные по характеристикам линий электропередачи (ЛЭП).
+**Данные:** В наличии имеются данные по отключениям электроэнергии в региональных электрических сетях Орловской области за 2018 по 2023 гг. Также имееются данные по характеристикам линий электропередачи (ЛЭП).
 
 **Цель** - разработать модель машинного обучения для прогнозирования возможных отключений электроэнергии на линиях электропередачи на основе характеристик самих ЛЭП.
 
@@ -29,7 +29,7 @@
 **Description of the project:** Ensuring reliable power supply to consumers subject to the supply of high-quality electrical energy is a necessary condition for the effective development of national economy. The excessive length together with the wear and tear of power networks lead to the fact that the failure rate of networks reaches 37 year-1 per 100 km, and power resoration time is up to 8 hours. Damages from undersupply of electricity range from 30 to 300 rubles/kWh and more. The length and condition of the network also affects the operation safety. The length and condition of the network also affects the operation safety. Taking into account the above and other problems in consumers' power supply, it is relevant to develop ways to find places that are most susceptible to power supply outages.
 
 
-**Data:** Data on power outages in regional electric networks of the Oryol region for 2018 to 2021 are available. There is also data on the characteristics of power transmission lines (PTL).
+**Data:** Data on power outages in regional electric networks of the Oryol region for 2018 to 2023 are available. There is also data on the characteristics of power transmission lines (PTL).
 
 **The goal** is to develop a machine learning model able to predict possible power outages on power lines based on the characteristics of PTLs.
 
