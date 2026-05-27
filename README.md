@@ -40,4 +40,4 @@ The core methodology, data preprocessing pipelines, and machine learning models 
 * **Global Validation:** Backed by high-impact international R&D indexing, establishing a solid baseline for real-world predictive maintenance applications.
 
 ---
-*Note: This repository represents core R&D implementations conducted during my tenure as a Senior Scientist specializing in system reliability and advanced data modeling.*
+*Note: This repository represents core R&D implementations conducted during my tenure as a Scientist specializing in system reliability and advanced data modeling.*
